@@ -1,2 +1,8 @@
 .logo{width: 45px;
-height: 35px;}
+height: 35px;
+display: inline-block;
+vertical-align: middle;}
+.navigation{vertical-align: middle;
+display: inline-block;}
+li {display: inline-block;
+vertical-align: middle;}
