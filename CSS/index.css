@@ -1,0 +1,43 @@
+.arrow{width: 201px;
+height: 151px;
+float: right;}
+.navigation{float: right;}
+ul{
+    float: left;}
+li {
+font-size: 35px;
+color: honeydew;
+margin: 30px;
+float: left;
+}
+
+body{background-color: rgb(82, 80, 80);}
+.first{float: left;
+border: 2px solid rgb(68, 68, 68);
+width: 625px;
+background-color: rgb(219, 181, 9);
+margin-left: 20px;
+padding: 10px;
+}
+.second{float: right;
+    border: 2px solid rgb(68, 68, 68);
+    width: 625px;
+    background-color: rgb(219, 181, 9);
+margin-right:20px;
+padding: 10px;}
+.clear{clear:both}
+.text{color: rgb(7, 7, 7);
+font-size: 22px;
+
+}
+.sur1{width:200px;
+height: 200px;
+float: right;
+}
+.satauri{font-size: 30px;
+color: black;
+font-family: sans-serif;}
+
+
+
+
