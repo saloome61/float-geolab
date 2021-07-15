@@ -18,13 +18,15 @@ width: 625px;
 background-color: rgb(219, 181, 9);
 margin-left: 20px;
 padding: 10px;
+margin-top: 45px;
 }
 .second{float: right;
     border: 2px solid rgb(68, 68, 68);
     width: 625px;
     background-color: rgb(219, 181, 9);
 margin-right:20px;
-padding: 10px;}
+padding: 10px;
+margin-top: 45px;}
 .clear{clear:both}
 .text{color: rgb(7, 7, 7);
 font-size: 22px;
@@ -36,7 +38,8 @@ float: right;
 }
 .satauri{font-size: 30px;
 color: black;
-font-family: sans-serif;}
+font-family: sans-serif;
+text-align: center;}
 
 
 
